@@ -1,0 +1,121 @@
+Title: LinkedIn: Log In or Sign Up
+Title length: 27
+
+Meta description: 1 billion members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
+Meta description length: 149
+
+URL:https://www.linkedin.com/sitemap.xml?_l=en_US
+Status Code: 404
+XML Sitemap does not exist
+
+URL:https://www.linkedin.com/robots.txt
+Status Code: 200
+Robots.txt exists
+
+Headings: [
+  {
+    "tagName": "H1",
+    "text": "Welcome to your professional community"
+  },
+  {
+    "tagName": "H2",
+    "text": "Explore collaborative articles"
+  },
+  {
+    "tagName": "H2",
+    "text": "Find the right job or internship for you"
+  },
+  {
+    "tagName": "H2",
+    "text": "Post your job for millions of people to see"
+  },
+  {
+    "tagName": "H2",
+    "text": "Discover the best software tools"
+  },
+  {
+    "tagName": "H2",
+    "text": "Keep your mind sharp with games"
+  },
+  {
+    "tagName": "H2",
+    "text": "Let the right people know you’re open to work"
+  },
+  {
+    "tagName": "H2",
+    "text": "Conversations today could lead to opportunity tomorrow"
+  },
+  {
+    "tagName": "H2",
+    "text": "Stay up to date on your industry"
+  },
+  {
+    "tagName": "H2",
+    "text": "Connect with people who can help"
+  },
+  {
+    "tagName": "H2",
+    "text": "Learn the skills you need to succeed"
+  },
+  {
+    "tagName": "H2",
+    "text": "Who is LinkedIn for?"
+  },
+  {
+    "tagName": "H2",
+    "text": "Join your colleagues, classmates, and friends on LinkedIn."
+  },
+  {
+    "tagName": "H3",
+    "text": "General"
+  },
+  {
+    "tagName": "H3",
+    "text": "Browse LinkedIn"
+  },
+  {
+    "tagName": "H3",
+    "text": "Business Solutions"
+  },
+  {
+    "tagName": "H3",
+    "text": "Directories"
+  }
+]
+
+-----------------------------------------------------
+
+Images: [
+  {
+    "src": "https://static.licdn.com/aero-v1/sc/h/dxf91zhqd2z6b0bwg85ktm5s4",
+    "alt": "Welcome to your professional community"
+  },
+  {
+    "src": "",
+    "alt": ""
+  },
+  {
+    "src": "",
+    "alt": ""
+  },
+  {
+    "src": "",
+    "alt": ""
+  },
+  {
+    "src": "",
+    "alt": ""
+  },
+  {
+    "src": "",
+    "alt": ""
+  },
+  {
+    "src": "",
+    "alt": "Who is LinkedIn for?"
+  },
+  {
+    "src": "https://ponf.linkedin.com/pixel/tracking.png?reqid=f432d3cc-7355-47dc-9b51-718e91808198&pageInstance=urn%3Ali%3Apage%3Ad_homepage-guest-home_jsbeacon%3BTLKIbx2mTVS%2F4kghHHFqyA%3D%3D&js=enabled",
+    "alt": ""
+  }
+]
